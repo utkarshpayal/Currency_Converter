@@ -1,1 +1,8 @@
-# Currency_Converter
+# Currency Converter
+
+## Technology used:
+- Html
+- CSS
+- JavaScript
+
+## By CodeWithHarry
